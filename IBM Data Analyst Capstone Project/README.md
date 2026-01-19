@@ -1,0 +1,1 @@
+[Click here to view the Live IBM Cognos Dashboard](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2BCapstone%2BProject%2BDashboard&action=view&mode=dashboard&subView=model0000019bd5149a4d_00000000&nav_filter=true)
