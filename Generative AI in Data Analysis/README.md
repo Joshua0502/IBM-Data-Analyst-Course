@@ -1,1 +1,1 @@
-![Dashboard](<iframe src="https://www.chartpixel.com/am2dvutz2hjv/gAAAAABpjYMa3vpC5rRG9FzyHOMHTCbOsHWvnZi-ehZuSabvDbmvbALABtn5mA2xb-em8Tu-4jXjHonoKx_jjlAmTgR1q8xxq8y9Ck7yAVraoP9mDBrdDb8uY2BIm-_7aYaWrFkus4E8NYTy2_Z55_wI33TBXHzW7Q==.svg"></iframe>)
+![Dashboard](https://www.chartpixel.com/am2dvutz2hjv/gAAAAABpjYQO76YX-Mt72nSbP_yiownomevhVdFCL-3DUWSblJ8sp2jtlz2XUoSAX5K5m0XYEFTSXR5sCp4vAwFbzFx1-ktlxpVFFyTagi8IRBftyPCPABjc87_t_KIAW_VUnpg0M7NGZ0yS2-FVcD78Tq_lj3qRTg==.svg)
